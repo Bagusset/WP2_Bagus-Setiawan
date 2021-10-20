@@ -8,8 +8,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<style type="text/css">
 
-	::selection { background-color: #E13300; color: white; }
-	::-moz-selection { background-color: #E13300; color: white; }
+	::selection { 
+		background-color: #E13300; 
+		color: white; 
+	}
+
+	::-moz-selection { 
+		background-color: #E13300; 
+		color: white; 
+	}
 
 	body {
 		background-color: #fff;
@@ -65,6 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}
 	</style>
 </head>
+
 <body>
 
 <div id="container">
